@@ -1,3 +1,4 @@
 # Tensorflow
 
-all deep learning projects
+all tensorflow learnings
+
